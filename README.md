@@ -1,4 +1,5 @@
-Presentation slide deck ngEurope Lightning Talk.
+Slides from the ngEurope Lightning Talk. Tiny subset of [AngularJS Meetup Presentation]
+(http://doshprompt.github.io/angular-localization-meetup).
 
 <table>
     <tr>
