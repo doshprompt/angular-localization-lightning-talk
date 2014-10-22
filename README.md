@@ -1,16 +1,16 @@
-Presentation slide deck with notes from AngularJS Meetups.
+Presentation slide deck ngEurope Lightning Talk.
 
 <table>
     <tr>
         <td>
-            <a href="http://ramonvictor.github.io/protractor/slides/">
-                <img src="https://raw.githubusercontent.com/doshprompt/angular-localization-meetup/gh-pages/assets/fa-globe.png">
+            <a href="http://doshprompt.github.io/angular-localization-lightning-talk/">
+                <img src="https://raw.githubusercontent.com/doshprompt/angular-localization-lightning-talk/gh-pages/assets/fa-globe.png">
             </a>
         </td>
         <td>
             <h3>Slides available online:<br>
-                <a href="http://doshprompt.github.io/angular-localization-meetup/">
-                    Internationalize AngularJS: Globalized Apps for a Global Audience.
+                <a href="http://doshprompt.github.io/angular-localization-lightning-talk/">
+                    Internationalize AngularJS: Lightning Talk
                 </a>
             </h3>
         </td>
